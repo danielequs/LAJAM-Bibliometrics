@@ -1,1 +1,1 @@
-# LAJAM-Bibliometrics
+# LAJAM Bibliometrics
