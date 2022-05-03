@@ -1,4 +1,4 @@
-# LAJAM Bibliometrics
+# LAJAM Bibliometrics (2002-2010)
 
 This repo contains the data, R code, and output for the paper:
 
